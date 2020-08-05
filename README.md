@@ -1,6 +1,6 @@
-<h1 align="center">Next Level Week, second edition, project "Proffy".</h1>
+<h1 align="center">#Next Level Week, second edition, project "Proffy".</h1>
 
-<p>*The Proffy project*, an online learning platform, was an open-source project developed during Next Level Week, which took place between 08/03 until 07/08, from the [Rocketseat](https://github.com/rocketseat) class, by the web development instructor for beginners in programming, [Mayk Brito](https://github.com/maykbrito).</p>
+**The Proffy project**, an online learning platform, was an open-source project developed during Next Level Week, which took place between 08/03 until 07/08, from the [Rocketseat](https://github.com/rocketseat) class, by the web development instructor for beginners in programming, [Mayk Brito](https://github.com/maykbrito).
 
 ---
 
@@ -13,4 +13,4 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 
 ---
 
-<p>⚠️🚧 *This project and this README.md are still under development...* 🚧⚠️</p>
+⚠️🚧 ***This project and this README.md are still under development...*** 🚧⚠️
