@@ -16,7 +16,7 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 ---
 ## 🚀 Tecnologias utilizadas
 
-O projeto está desenvolvido utilizando as seguintes tecnologias:
+O projeto está sendo desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
