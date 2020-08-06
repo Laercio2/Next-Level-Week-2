@@ -10,7 +10,7 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - [x] "Accelerating Your Evolution"
 - [x] "Looking at opportunities"
 - [x] "The Stack's Choice"
-- [ ] "Up to two years in 2 months"
+- [x] "Up to two years in 2 months"
 - [ ] "The extra mile"
 
 ---
