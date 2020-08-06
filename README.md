@@ -14,5 +14,16 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - [ ] "The extra mile"
 
 ---
+## 🚀 Tecnologias utilizadas
+
+O projeto está desenvolvido utilizando as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- Node.js 
+- Nunjucks 
+- <s>SQLite</s> (próximas aulas 🚧)
+---
 
 ⚠️🚧 ***This project and this README.md are still under development...*** 🚧⚠️
