@@ -11,7 +11,7 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - [x] "Looking at opportunities"
 - [x] "The Stack's Choice"
 - [x] "Up to two years in 2 months"
-- [ ] "The extra mile"
+- [x] "The extra mile"
 
 ---
 ## 🚀 Technologies used
@@ -23,7 +23,28 @@ The project is being developed using the following technologies:
 - JavaScript
 - Node.js 
 - Nunjucks 
-- <s>SQLite</s> (next classes 🚧)
+- SQLite
 ---
 
-⚠️🚧 ***This project and this README.md are still under development...*** 🚧⚠️
+## ⌨ Como executar o projeto
+
+```bash
+# Clonar o repositório
+git clone https://github.com/guilhermecapitao/proffy-discovery
+
+# Entrar no diretório
+cd proffy-discovery
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+
+---
+
+
+Desenvolvido com 💜 por Guilherme Capitão
