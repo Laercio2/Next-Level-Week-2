@@ -33,7 +33,7 @@ The project is being developed using the following technologies:
 git clone https://github.com/guilhermecapitao/proffy-discovery
 
 # Enter directory
-cd proffy-discovery
+cd Next-Level-Week-2
 
 # Download dependencies
 Run the following command npm install -g --production windows-build-tools
