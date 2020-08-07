@@ -26,25 +26,26 @@ The project is being developed using the following technologies:
 - SQLite
 ---
 
-## ⌨ Como executar o projeto
+## ⌨ How to run the project
 
 ```bash
-# Clonar o repositório
+# Clone the repository
 git clone https://github.com/guilhermecapitao/proffy-discovery
 
-# Entrar no diretório
+# Enter directory
 cd proffy-discovery
 
-# Baixar as dependências
-npm i
+# Download dependencies
+Run the following command npm install -g --production windows-build-tools
+And to install all the others dependencies, run npm install --production.
 
-# Executar o servidor
+# Run the server
 npm run dev
 ```
 
-Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+That done, open your browser and access `http://localhost:5500/`
 
 ---
 
 
-Desenvolvido com 💜 por Guilherme Capitão
+Desenvolvido com 💜 por Laércio Almeida
