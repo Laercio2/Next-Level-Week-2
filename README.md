@@ -30,7 +30,7 @@ The project is being developed using the following technologies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/Laercio2/Next-Level-Week-2
 
 # Enter directory
 cd Next-Level-Week-2
